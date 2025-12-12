@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :360: for Floccus bookmark sync browser extension -->
+<!--- highestId :382: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核 </title>
@@ -18,47 +18,11 @@
 <bookmark href="https://www.processon.com/diagrams" id="5">
   <title>思维导图</title>
 </bookmark>
-<bookmark href="https://www.gying.net/" id="6">
-  <title>无名小站</title>
-</bookmark>
 <bookmark href="https://www.zhihu.com/" id="7">
   <title>知乎</title>
 </bookmark>
 <bookmark href="https://github.com/" id="8">
   <title>GitHub</title>
-</bookmark>
-<bookmark href="https://mail.163.com/js6/main.jsp?sid=zCZNDrgcoDsvsWxoGgccAFeurLKDoHCS&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D" id="9">
-  <title> 网易邮箱</title>
-</bookmark>
-<bookmark href="https://www.google.com/" id="10">
-  <title>Google</title>
-</bookmark>
-<bookmark href="https://www.douyin.com/" id="11">
-  <title>抖音-记录美好生活</title>
-</bookmark>
-<bookmark href="https://weread.qq.com/" id="12">
-  <title>微信读书</title>
-</bookmark>
-<bookmark href="https://chat.deepseek.com/a/chat/s/b51092d7-be94-4369-bc72-11ba4237f9f7" id="13">
-  <title>DeepSeek</title>
-</bookmark>
-<bookmark href="https://www.doubao.com/chat/" id="14">
-  <title>豆包 </title>
-</bookmark>
-<bookmark href="https://www.yuque.com/dashboard/books" id="15">
-  <title>语雀</title>
-</bookmark>
-<bookmark href="https://www.huya.com/" id="16">
-  <title>虎牙</title>
-</bookmark>
-<bookmark href="https://www.douyu.com/?dyshid=295b26d-06c5ac8989fcee3ce16cbcaa00031601" id="17">
-  <title>斗鱼</title>
-</bookmark>
-<bookmark href="https://www.designnavs.com/" id="18">
-  <title>比特星球 平替</title>
-</bookmark>
-<bookmark href="file:///D:/%E4%B9%8B%E5%90%8E%E7%9A%84%E6%97%A5%E5%AD%90/QQ%E7%A9%BA%E9%97%B4%E5%A4%87%E4%BB%BD_1586470758/index.html" id="19">
-  <title>QQ空间备份-飞的空间</title>
 </bookmark>
 <bookmark href="javascript:var KICKASSVERSION=&apos;2.0&apos;;var s = document.createElement(&apos;script&apos;);s.type=&apos;text/javascript&apos;;document.body.appendChild(s);s.src=&apos;//hi.kickassapp.com/kickass.js&apos;;void(0);" id="20">
   <title>飞机轰炸</title>
@@ -1016,6 +980,66 @@
 </folder>
 <folder id="70">
   <title>Edge</title>
+  <bookmark href="https://www.gcores.com/" id="361">
+    <title>机核 </title>
+  </bookmark>
+  <bookmark href="https://www.bilibili.com/" id="362">
+    <title>b站</title>
+  </bookmark>
+  <bookmark href="https://fanyi.baidu.com/translate?aldtype=16047&amp;query=&amp;keyfrom=baidu&amp;smartresult=dict&amp;lang=auto2zh#auto/zh/" id="363">
+    <title>翻译</title>
+  </bookmark>
+  <bookmark href="https://www.csdn.net/" id="364">
+    <title>CSDN</title>
+  </bookmark>
+  <bookmark href="https://www.processon.com/diagrams" id="365">
+    <title>思维导图</title>
+  </bookmark>
+  <bookmark href="https://www.gying.net/" id="6">
+    <title>无名小站</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/" id="366">
+    <title>知乎</title>
+  </bookmark>
+  <bookmark href="https://github.com/" id="367">
+    <title>GitHub</title>
+  </bookmark>
+  <bookmark href="https://mail.163.com/js6/main.jsp?sid=zCZNDrgcoDsvsWxoGgccAFeurLKDoHCS&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D" id="9">
+    <title> 网易邮箱</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/" id="10">
+    <title>Google</title>
+  </bookmark>
+  <bookmark href="https://www.douyin.com/" id="11">
+    <title>抖音-记录美好生活</title>
+  </bookmark>
+  <bookmark href="https://weread.qq.com/" id="12">
+    <title>微信读书</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/a/chat/s/b51092d7-be94-4369-bc72-11ba4237f9f7" id="13">
+    <title>DeepSeek</title>
+  </bookmark>
+  <bookmark href="https://www.doubao.com/chat/" id="14">
+    <title>豆包 </title>
+  </bookmark>
+  <bookmark href="https://www.yuque.com/dashboard/books" id="15">
+    <title>语雀</title>
+  </bookmark>
+  <bookmark href="https://www.huya.com/" id="16">
+    <title>虎牙</title>
+  </bookmark>
+  <bookmark href="https://www.douyu.com/?dyshid=295b26d-06c5ac8989fcee3ce16cbcaa00031601" id="17">
+    <title>斗鱼</title>
+  </bookmark>
+  <bookmark href="https://www.designnavs.com/" id="18">
+    <title>比特星球 平替</title>
+  </bookmark>
+  <bookmark href="file:///D:/%E4%B9%8B%E5%90%8E%E7%9A%84%E6%97%A5%E5%AD%90/QQ%E7%A9%BA%E9%97%B4%E5%A4%87%E4%BB%BD_1586470758/index.html" id="19">
+    <title>QQ空间备份-飞的空间</title>
+  </bookmark>
+  <bookmark href="javascript:var KICKASSVERSION=&apos;2.0&apos;;var s = document.createElement(&apos;script&apos;);s.type=&apos;text/javascript&apos;;document.body.appendChild(s);s.src=&apos;//hi.kickassapp.com/kickass.js&apos;;void(0);" id="368">
+    <title>飞机轰炸</title>
+  </bookmark>
 </folder>
 <folder id="71">
   <title>chrom</title>
@@ -1083,4 +1107,46 @@
     <title>飞机轰炸</title>
   </bookmark>
 </folder>
+<bookmark href="https://www.baidu.com/" id="369">
+  <title>百度</title>
+</bookmark>
+<bookmark href="https://www.douyin.com/?recommend=1" id="370">
+  <title>抖音-记录美好生活</title>
+</bookmark>
+<bookmark href="https://www.btnull.nu/" id="371">
+  <title>无名小站</title>
+</bookmark>
+<bookmark href="https://chatgpt.com/" id="372">
+  <title>ChatGPT官网</title>
+</bookmark>
+<bookmark href="https://www.google.com.hk/" id="373">
+  <title>Google</title>
+</bookmark>
+<bookmark href="https://clash.razord.top/#/proxies" id="374">
+  <title>Clash</title>
+</bookmark>
+<bookmark href="https://wangchujiang.com/linux-command/" id="375">
+  <title>Linux命令搜索引擎</title>
+</bookmark>
+<bookmark href="http://localhost:3000/" id="376">
+  <title> Open WebUI</title>
+</bookmark>
+<bookmark href="https://www.yuque.com/dashboard" id="377">
+  <title>语雀</title>
+</bookmark>
+<bookmark href="http://127.0.0.1:6284/browser" id="378">
+  <title>MinIO</title>
+</bookmark>
+<bookmark href="http://localhost:8384/" id="379">
+  <title>Syncthing</title>
+</bookmark>
+<bookmark href="http://localhost:8888/" id="380">
+  <title>本地SkyWalking</title>
+</bookmark>
+<bookmark href="http://127.0.0.1:8848/nacos/#/configurationManagement?dataId=&amp;group=&amp;appName=&amp;namespace=&amp;pageSize=&amp;pageNo=" id="381">
+  <title>本地Nacos</title>
+</bookmark>
+<bookmark href="http://localhost:5678/home/workflows" id="382">
+  <title>本地 n8n</title>
+</bookmark>
 </xbel>
