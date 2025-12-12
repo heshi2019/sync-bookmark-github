@@ -980,9 +980,6 @@
 </folder>
 <folder id="70">
   <title>Edge</title>
-  <bookmark href="https://www.gcores.com/" id="361">
-    <title>机核</title>
-  </bookmark>
   <bookmark href="https://www.bilibili.com/" id="362">
     <title>b站</title>
   </bookmark>
@@ -1004,9 +1001,6 @@
   <bookmark href="https://github.com/" id="367">
     <title>GitHub</title>
   </bookmark>
-  <bookmark href="https://mail.163.com/js6/main.jsp?sid=zCZNDrgcoDsvsWxoGgccAFeurLKDoHCS&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D" id="9">
-    <title>网易邮箱</title>
-  </bookmark>
   <bookmark href="https://www.google.com/" id="10">
     <title>Google</title>
   </bookmark>
@@ -1018,9 +1012,6 @@
   </bookmark>
   <bookmark href="https://chat.deepseek.com/a/chat/s/b51092d7-be94-4369-bc72-11ba4237f9f7" id="13">
     <title>DeepSeek</title>
-  </bookmark>
-  <bookmark href="https://www.doubao.com/chat/" id="14">
-    <title>豆包</title>
   </bookmark>
   <bookmark href="https://www.yuque.com/dashboard/books" id="15">
     <title>语雀</title>
@@ -1039,6 +1030,15 @@
   </bookmark>
   <bookmark href="javascript:var KICKASSVERSION=&apos;2.0&apos;;var s = document.createElement(&apos;script&apos;);s.type=&apos;text/javascript&apos;;document.body.appendChild(s);s.src=&apos;//hi.kickassapp.com/kickass.js&apos;;void(0);" id="368">
     <title>飞机轰炸</title>
+  </bookmark>
+  <bookmark href="https://www.gcores.com/" id="361">
+    <title>机核</title>
+  </bookmark>
+  <bookmark href="https://mail.163.com/js6/main.jsp?sid=zCZNDrgcoDsvsWxoGgccAFeurLKDoHCS&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D" id="9">
+    <title>网易邮箱</title>
+  </bookmark>
+  <bookmark href="https://www.doubao.com/chat/" id="14">
+    <title>豆包</title>
   </bookmark>
 </folder>
 <folder id="71">
