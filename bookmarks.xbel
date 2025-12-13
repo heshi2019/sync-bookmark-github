@@ -39,6 +39,9 @@
 <bookmark href="https://chatgpt.com/" id="13">
   <title>ChatGPT官网</title>
 </bookmark>
+<bookmark href="https://www.doubao.com/chat/" id="14">
+  <title>豆包</title>
+</bookmark>
 <bookmark href="https://www.yuque.com/dashboard/books" id="15">
   <title>语雀</title>
 </bookmark>
@@ -77,9 +80,6 @@
 </bookmark>
 <bookmark href="https://mail.163.com/js6/main.jsp?sid=zCZNDrgcoDsvsWxoGgccAFeurLKDoHCS&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D" id="9">
   <title>网易邮箱</title>
-</bookmark>
-<bookmark href="https://www.doubao.com/chat/" id="14">
-  <title>豆包</title>
 </bookmark>
 <bookmark href="http://localhost:3000/" id="23">
   <title>Open WebUI</title>
