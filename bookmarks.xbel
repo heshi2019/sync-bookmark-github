@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :389: for Floccus bookmark sync browser extension -->
+<!--- highestId :390: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -199,6 +199,9 @@
   </bookmark>
   <bookmark href="https://zhuanlan.zhihu.com/p/48249182" id="216">
     <title>RSA算法原理</title>
+  </bookmark>
+  <bookmark href="https://www.xianyudanji.to/" id="390">
+    <title>咸鱼单机-单机游戏下载大全-switch游戏下载-咸鱼单机官网</title>
   </bookmark>
 </folder>
 <folder id="86">
