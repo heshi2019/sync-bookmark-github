@@ -72,6 +72,18 @@
 <bookmark href="http://localhost:5678/home/workflows" id="27">
   <title>本地 n8n</title>
 </bookmark>
+<bookmark href="https://www.gcores.com/" id="1">
+  <title>机核</title>
+</bookmark>
+<bookmark href="https://mail.163.com/js6/main.jsp?sid=zCZNDrgcoDsvsWxoGgccAFeurLKDoHCS&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D" id="9">
+  <title>网易邮箱</title>
+</bookmark>
+<bookmark href="https://www.doubao.com/chat/" id="14">
+  <title>豆包</title>
+</bookmark>
+<bookmark href="http://localhost:3000/" id="23">
+  <title>Open WebUI</title>
+</bookmark>
 <bookmark href="https://clash.razord.top/#/proxies" id="28">
   <title>Clash</title>
 </bookmark>
@@ -1158,16 +1170,4 @@
     <title>Open WebUI</title>
   </bookmark>
 </folder>
-<bookmark href="https://www.gcores.com/" id="1">
-  <title>机核</title>
-</bookmark>
-<bookmark href="https://mail.163.com/js6/main.jsp?sid=zCZNDrgcoDsvsWxoGgccAFeurLKDoHCS&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D" id="9">
-  <title>网易邮箱</title>
-</bookmark>
-<bookmark href="https://www.doubao.com/chat/" id="14">
-  <title>豆包</title>
-</bookmark>
-<bookmark href="http://localhost:3000/" id="23">
-  <title>Open WebUI</title>
-</bookmark>
 </xbel>
