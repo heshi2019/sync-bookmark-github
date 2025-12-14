@@ -68,6 +68,9 @@
 </bookmark>
 <folder id="85">
   <title>资源工具</title>
+  <bookmark href="https://www.designnavs.com/" id="19">
+    <title>比特星球 平替</title>
+  </bookmark>
   <bookmark href="https://platform.moonshot.cn/console/account" id="116">
     <title>月之暗面-开放平台</title>
   </bookmark>
@@ -176,12 +179,12 @@
   <bookmark href="https://www.xianyudanji.to/" id="390">
     <title>咸鱼单机-单机游戏下载大全-switch游戏下载-咸鱼单机官网</title>
   </bookmark>
-  <bookmark href="https://www.designnavs.com/" id="19">
-    <title>比特星球 平替</title>
-  </bookmark>
 </folder>
 <folder id="86">
   <title>小工具</title>
+  <bookmark href="javascript:var KICKASSVERSION=&apos;2.0&apos;;var s = document.createElement(&apos;script&apos;);s.type=&apos;text/javascript&apos;;document.body.appendChild(s);s.src=&apos;//hi.kickassapp.com/kickass.js&apos;;void(0);" id="30">
+    <title>飞机轰炸</title>
+  </bookmark>
   <bookmark href="https://www.yra2.com/" id="126">
     <title>红警2重聚未来</title>
   </bookmark>
@@ -331,9 +334,6 @@
   </bookmark>
   <bookmark href="https://rss-source.com/" id="277">
     <title>RSS订阅源推荐</title>
-  </bookmark>
-  <bookmark href="javascript:var KICKASSVERSION=&apos;2.0&apos;;var s = document.createElement(&apos;script&apos;);s.type=&apos;text/javascript&apos;;document.body.appendChild(s);s.src=&apos;//hi.kickassapp.com/kickass.js&apos;;void(0);" id="30">
-    <title>飞机轰炸</title>
   </bookmark>
 </folder>
 <folder id="89">
