@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :390: for Floccus bookmark sync browser extension -->
+<!--- highestId :391: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -54,9 +54,6 @@
 <bookmark href="file:///D:/%E4%B9%8B%E5%90%8E%E7%9A%84%E6%97%A5%E5%AD%90/QQ%E7%A9%BA%E9%97%B4%E5%A4%87%E4%BB%BD_1586470758/index.html" id="18">
   <title>QQ空间备份-飞的空间</title>
 </bookmark>
-<bookmark href="https://www.designnavs.com/" id="19">
-  <title>比特星球 平替</title>
-</bookmark>
 <bookmark href="https://chat.deepseek.com/a/chat/s/b51092d7-be94-4369-bc72-11ba4237f9f7" id="20">
   <title>DeepSeek</title>
 </bookmark>
@@ -66,32 +63,8 @@
 <bookmark href="https://wangchujiang.com/linux-command/" id="22">
   <title>Linux命令搜索引擎</title>
 </bookmark>
-<bookmark href="http://localhost:8384/" id="24">
-  <title>Syncthing</title>
-</bookmark>
-<bookmark href="http://localhost:8888/" id="25">
-  <title>本地SkyWalking</title>
-</bookmark>
-<bookmark href="http://127.0.0.1:8848/nacos/#/configurationManagement?dataId=&amp;group=&amp;appName=&amp;namespace=&amp;pageSize=&amp;pageNo=" id="26">
-  <title>本地Nacos</title>
-</bookmark>
-<bookmark href="http://localhost:5678/home/workflows" id="27">
-  <title>本地 n8n</title>
-</bookmark>
 <bookmark href="https://mail.163.com/js6/main.jsp?sid=zCZNDrgcoDsvsWxoGgccAFeurLKDoHCS&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D" id="9">
   <title>网易邮箱</title>
-</bookmark>
-<bookmark href="http://localhost:3000/" id="23">
-  <title>Open WebUI</title>
-</bookmark>
-<bookmark href="https://clash.razord.top/#/proxies" id="28">
-  <title>Clash</title>
-</bookmark>
-<bookmark href="http://127.0.0.1:6284/browser" id="29">
-  <title>MinIO</title>
-</bookmark>
-<bookmark href="javascript:var KICKASSVERSION=&apos;2.0&apos;;var s = document.createElement(&apos;script&apos;);s.type=&apos;text/javascript&apos;;document.body.appendChild(s);s.src=&apos;//hi.kickassapp.com/kickass.js&apos;;void(0);" id="30">
-  <title>飞机轰炸</title>
 </bookmark>
 <folder id="85">
   <title>资源工具</title>
@@ -202,6 +175,9 @@
   </bookmark>
   <bookmark href="https://www.xianyudanji.to/" id="390">
     <title>咸鱼单机-单机游戏下载大全-switch游戏下载-咸鱼单机官网</title>
+  </bookmark>
+  <bookmark href="https://www.designnavs.com/" id="19">
+    <title>比特星球 平替</title>
   </bookmark>
 </folder>
 <folder id="86">
@@ -355,6 +331,9 @@
   </bookmark>
   <bookmark href="https://rss-source.com/" id="277">
     <title>RSS订阅源推荐</title>
+  </bookmark>
+  <bookmark href="javascript:var KICKASSVERSION=&apos;2.0&apos;;var s = document.createElement(&apos;script&apos;);s.type=&apos;text/javascript&apos;;document.body.appendChild(s);s.src=&apos;//hi.kickassapp.com/kickass.js&apos;;void(0);" id="30">
+    <title>飞机轰炸</title>
   </bookmark>
 </folder>
 <folder id="89">
@@ -1171,6 +1150,30 @@
   </bookmark>
   <bookmark href="http://localhost:3000/" id="109">
     <title>Open WebUI</title>
+  </bookmark>
+</folder>
+<folder id="391">
+  <title>本地项目</title>
+  <bookmark href="http://127.0.0.1:6284/browser" id="29">
+    <title>MinIO</title>
+  </bookmark>
+  <bookmark href="https://clash.razord.top/#/proxies" id="28">
+    <title>Clash</title>
+  </bookmark>
+  <bookmark href="http://localhost:3000/" id="23">
+    <title>Open WebUI</title>
+  </bookmark>
+  <bookmark href="http://localhost:5678/home/workflows" id="27">
+    <title>本地 n8n</title>
+  </bookmark>
+  <bookmark href="http://127.0.0.1:8848/nacos/#/configurationManagement?dataId=&amp;group=&amp;appName=&amp;namespace=&amp;pageSize=&amp;pageNo=" id="26">
+    <title>本地Nacos</title>
+  </bookmark>
+  <bookmark href="http://localhost:8888/" id="25">
+    <title>本地SkyWalking</title>
+  </bookmark>
+  <bookmark href="http://localhost:8384/" id="24">
+    <title>Syncthing</title>
   </bookmark>
 </folder>
 </xbel>
