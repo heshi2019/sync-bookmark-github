@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :394: for Floccus bookmark sync browser extension -->
+<!--- highestId :395: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -748,6 +748,9 @@
   </bookmark>
   <bookmark href="https://www.idcn.link/console" id="394">
     <title>IDCNLink - 全球网络加速服务商 - 机场</title>
+  </bookmark>
+  <bookmark href="https://www.idcn.link/" id="395">
+    <title>IDCNLink - 全球网络加速服务商</title>
   </bookmark>
 </folder>
 <folder id="33">
