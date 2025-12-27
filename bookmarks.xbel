@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :396: for Floccus bookmark sync browser extension -->
+<!--- highestId :397: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -629,17 +629,8 @@
   <bookmark href="https://runwayml.com/" id="189">
     <title>平行世界视频制作</title>
   </bookmark>
-  <bookmark href="https://portal.wl-site5.com/#/dashboard" id="190">
-    <title>Wallless</title>
-  </bookmark>
-  <bookmark href="https://wlyuming.com/" id="191">
-    <title>Wallless 引导页</title>
-  </bookmark>
   <bookmark href="https://sms-activate.org/cn" id="192">
     <title>SMS-国外接码平台</title>
-  </bookmark>
-  <bookmark href="https://www.kuaiyin001.com/user" id="193">
-    <title>快银- vpn</title>
   </bookmark>
   <bookmark href="https://www.mapbox.com/" id="285">
     <title>Mapbox 地图渲染</title>
@@ -704,14 +695,8 @@
   <bookmark href="https://ethereum.org/zh/" id="284">
     <title>以太坊</title>
   </bookmark>
-  <bookmark href="https://beibei.cloud/" id="290">
-    <title>贝贝云前置页-请收藏</title>
-  </bookmark>
   <bookmark href="https://www.hentaiclub.net/" id="321">
     <title>绅士会所（写真）</title>
-  </bookmark>
-  <bookmark href="https://1ytcom01.1yunti.net/dashboard" id="322">
-    <title>一云梯-最具性价比IPLC专线机场</title>
   </bookmark>
   <bookmark href="https://aistudio.google.com/prompts/new_chat" id="323">
     <title>Google AI Studio</title>
@@ -721,6 +706,33 @@
   </bookmark>
   <bookmark href="https://www.aishort.top/en/" id="325">
     <title>AiShort - AI 提示模板</title>
+  </bookmark>
+  <bookmark href="https://a76yyyy.github.io/clash/zh_CN/" id="240">
+    <title>Clash</title>
+  </bookmark>
+  <bookmark href="https://missav.ai/dm45" id="289">
+    <title>MissAV</title>
+  </bookmark>
+  <bookmark href="https://annas-archive.org/" id="396">
+    <title>Anna’s Archive影子图书馆，找书</title>
+  </bookmark>
+</folder>
+<folder id="397">
+  <title>梯子</title>
+  <bookmark href="https://portal.wl-site5.com/#/dashboard" id="190">
+    <title>Wallless</title>
+  </bookmark>
+  <bookmark href="https://wlyuming.com/" id="191">
+    <title>Wallless 引导页</title>
+  </bookmark>
+  <bookmark href="https://www.kuaiyin001.com/user" id="193">
+    <title>快银- vpn</title>
+  </bookmark>
+  <bookmark href="https://beibei.cloud/" id="290">
+    <title>贝贝云前置页-请收藏</title>
+  </bookmark>
+  <bookmark href="https://1ytcom01.1yunti.net/dashboard" id="322">
+    <title>一云梯-最具性价比IPLC专线机场</title>
   </bookmark>
   <bookmark href="https://new.ednovas.dev/#/login" id="326">
     <title>EdNovas 云</title>
@@ -734,12 +746,6 @@
   <bookmark href="https://portal.ash.do/#/dashboard" id="329">
     <title>仪表盘 - 微斯人，吾谁与归</title>
   </bookmark>
-  <bookmark href="https://a76yyyy.github.io/clash/zh_CN/" id="240">
-    <title>Clash</title>
-  </bookmark>
-  <bookmark href="https://missav.ai/dm45" id="289">
-    <title>MissAV</title>
-  </bookmark>
   <bookmark href="https://mojie.app/shop" id="392">
     <title>魔戒 梯子</title>
   </bookmark>
@@ -748,9 +754,6 @@
   </bookmark>
   <bookmark href="https://www.idcn.link/console" id="394">
     <title>IDCNLink - 全球网络加速服务商 - 机场</title>
-  </bookmark>
-  <bookmark href="https://annas-archive.org/" id="396">
-    <title>Anna’s Archive影子图书馆，找书</title>
   </bookmark>
 </folder>
 <folder id="33">
