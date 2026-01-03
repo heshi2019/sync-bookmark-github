@@ -701,6 +701,9 @@
   <bookmark href="https://claude.ai/chat/74278141-160c-4e82-8943-d819ae72890b" id="399">
     <title>Claude</title>
   </bookmark>
+  <bookmark href="https://www.google.com/appsstatus/dashboard/" id="400">
+    <title>Google 服务状态信息中心</title>
+  </bookmark>
 </folder>
 <folder id="397">
   <title>梯子</title>
@@ -1176,7 +1179,4 @@
     <title>Syncthing</title>
   </bookmark>
 </folder>
-<bookmark href="https://www.google.com/appsstatus/dashboard/" id="400">
-  <title>Google Workspace 状态信息中心</title>
-</bookmark>
 </xbel>
