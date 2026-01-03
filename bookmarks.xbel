@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :398: for Floccus bookmark sync browser extension -->
+<!--- highestId :399: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -706,6 +706,9 @@
   </bookmark>
   <bookmark href="https://yandex.com/" id="398">
     <title>Yandex — fast Internet search</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/chat/74278141-160c-4e82-8943-d819ae72890b" id="399">
+    <title>Claude</title>
   </bookmark>
 </folder>
 <folder id="397">
