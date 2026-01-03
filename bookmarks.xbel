@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :399: for Floccus bookmark sync browser extension -->
+<!--- highestId :400: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -1176,4 +1176,7 @@
     <title>Syncthing</title>
   </bookmark>
 </folder>
+<bookmark href="https://www.google.com/appsstatus/dashboard/" id="400">
+  <title>Google Workspace 状态信息中心</title>
+</bookmark>
 </xbel>
