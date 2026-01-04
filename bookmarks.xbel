@@ -704,9 +704,6 @@
   <bookmark href="https://www.google.com/appsstatus/dashboard/" id="400">
     <title>Google 服务状态信息中心</title>
   </bookmark>
-  <bookmark href="http://localhost:5000/" id="401">
-    <title>localhost:5000</title>
-  </bookmark>
 </folder>
 <folder id="397">
   <title>梯子</title>
@@ -1180,6 +1177,9 @@
   </bookmark>
   <bookmark href="http://localhost:8384/" id="24">
     <title>Syncthing</title>
+  </bookmark>
+  <bookmark href="http://localhost:5000/" id="401">
+    <title>libretranslate，本地翻译</title>
   </bookmark>
 </folder>
 </xbel>
