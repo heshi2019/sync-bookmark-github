@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :402: for Floccus bookmark sync browser extension -->
+<!--- highestId :403: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -1183,6 +1183,9 @@
   </bookmark>
   <bookmark href="http://127.0.0.1:8000/" id="402">
     <title>SillyTavern - 骗子酒馆</title>
+  </bookmark>
+  <bookmark href="https://parsnip9-clang7-uncoated3-bogged5-operating3.to2cloud.com/zh/home" id="403">
+    <title>旅程启点 | To2&amp;自留地</title>
   </bookmark>
 </folder>
 </xbel>
