@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :405: for Floccus bookmark sync browser extension -->
+<!--- highestId :406: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -191,9 +191,6 @@
   <bookmark href="https://www.mi.com/service/notebook/drivers" id="404">
     <title>小米笔记本-驱动下载</title>
   </bookmark>
-  <bookmark href="https://zh.ifixit.com/" id="405">
-    <title>iFixit：免费修理手册</title>
-  </bookmark>
 </folder>
 <folder id="86">
   <title>小工具</title>
@@ -349,6 +346,9 @@
   </bookmark>
   <bookmark href="https://rss-source.com/" id="277">
     <title>RSS订阅源推荐</title>
+  </bookmark>
+  <bookmark href="https://zh.ifixit.com/" id="406">
+    <title>iFixit：免费修理手册</title>
   </bookmark>
 </folder>
 <folder id="89">
