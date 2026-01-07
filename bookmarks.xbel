@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :407: for Floccus bookmark sync browser extension -->
+<!--- highestId :408: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -351,7 +351,10 @@
     <title>iFixit：免费修理手册</title>
   </bookmark>
   <bookmark href="https://www.submarinecablemap.com/" id="407">
-    <title>海底电缆图 --- Submarine Cable Map</title>
+    <title>海底电缆图</title>
+  </bookmark>
+  <bookmark href="https://ippure.com/" id="408">
+    <title>IP地址信息和纯净度检测 | IPPure</title>
   </bookmark>
 </folder>
 <folder id="89">
