@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :409: for Floccus bookmark sync browser extension -->
+<!--- highestId :410: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -305,9 +305,6 @@
   <bookmark href="https://www.xiazaitool.com/dy" id="278">
     <title>抖音视频下载</title>
   </bookmark>
-  <bookmark href="https://zimuku.org/?_gl=1*kx5m53*_ga*MTEyMDI2MDI3Ny4xNzM1ODczOTkw*_ga_HG86EKXPXP*MTczNTg3Mzk5MC4xLjAuMTczNTg3Mzk5MC4wLjAuMA.." id="279">
-    <title>字幕库(zimuku,SrtKu) -- 字幕下载网站</title>
-  </bookmark>
   <bookmark href="https://www.toolhelper.cn/JSON/JSONFormat" id="280">
     <title>JSON 格式化 - 锤子在线工具</title>
   </bookmark>
@@ -358,6 +355,9 @@
   </bookmark>
   <bookmark href="https://ippure.com/" id="408">
     <title>IP纯净度检测</title>
+  </bookmark>
+  <bookmark href="https://zimuku.org/" id="410">
+    <title>字幕下载网站</title>
   </bookmark>
 </folder>
 <folder id="89">
