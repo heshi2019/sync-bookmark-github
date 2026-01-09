@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :410: for Floccus bookmark sync browser extension -->
+<!--- highestId :411: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -662,9 +662,6 @@
   <bookmark href="https://xslist.org/tw" id="286">
     <title>健康的宅男偶像專題網站</title>
   </bookmark>
-  <bookmark href="https://jichangtuijian.com/%E5%85%8D%E8%B4%B9ssr%E5%92%8Cv2ray%E6%9C%BA%E5%9C%BA.html" id="287">
-    <title>机场测评合集</title>
-  </bookmark>
   <bookmark href="https://plasticlove18.fanbox.cc/" id="288">
     <title>小黄文</title>
   </bookmark>
@@ -722,6 +719,9 @@
 </folder>
 <folder id="397">
   <title>梯子</title>
+  <bookmark href="https://jichangtuijian.com/%E5%85%8D%E8%B4%B9ssr%E5%92%8Cv2ray%E6%9C%BA%E5%9C%BA.html" id="411">
+    <title>机场测评合集</title>
+  </bookmark>
   <bookmark href="https://wlyuming.com/" id="191">
     <title>Wallless 引导页</title>
   </bookmark>
