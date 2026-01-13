@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :415: for Floccus bookmark sync browser extension -->
+<!--- highestId :416: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -363,7 +363,10 @@
     <title>域名查询工具-站长之家</title>
   </bookmark>
   <bookmark href="https://whois.aliyun.com/" id="415">
-    <title>whois查询_域名查询_域名交易_阿里云企航(原万网)-阿里云</title>
+    <title>域名查询_阿里云</title>
+  </bookmark>
+  <bookmark href="https://dc.console.aliyun.com/#/overview" id="416">
+    <title>域名控制台</title>
   </bookmark>
 </folder>
 <folder id="89">
