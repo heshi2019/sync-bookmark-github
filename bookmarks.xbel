@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :411: for Floccus bookmark sync browser extension -->
+<!--- highestId :412: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -760,6 +760,9 @@
   </bookmark>
   <bookmark href="https://parsnip9-clang7-uncoated3-bogged5-operating3.to2cloud.com/zh/home" id="403">
     <title>自留地</title>
+  </bookmark>
+  <bookmark href="https://artificialanalysis.ai/" id="412">
+    <title>AI 模型及 API 提供商分析 | 人工智能分析 --- AI Model &amp; API Providers Analysis | Artificial Analysis</title>
   </bookmark>
 </folder>
 <folder id="33">
