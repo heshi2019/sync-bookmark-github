@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :412: for Floccus bookmark sync browser extension -->
+<!--- highestId :413: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -718,6 +718,9 @@
   </bookmark>
   <bookmark href="https://artificialanalysis.ai/" id="412">
     <title>AI智力排行</title>
+  </bookmark>
+  <bookmark href="https://lmarena.ai/zh/leaderboard" id="413">
+    <title>LMArena 排行榜 | 对比和评测最佳前沿人工智能模型 --- LMArena Leaderboard | Compare &amp; Benchmark the Best Frontier AI Models</title>
   </bookmark>
 </folder>
 <folder id="397">
