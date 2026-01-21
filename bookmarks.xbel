@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :427: for Floccus bookmark sync browser extension -->
+<!--- highestId :428: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -1240,6 +1240,9 @@
   </bookmark>
   <bookmark href="https://www.zhaopin.com/" id="426">
     <title>智联招聘</title>
+  </bookmark>
+  <bookmark href="https://hacknical.com/heshi2019/archive#others" id="428">
+    <title>hacknical | heshi2019 的个人主页</title>
   </bookmark>
 </folder>
 <bookmark href="https://www.codesky.me/" id="427">
