@@ -857,6 +857,9 @@
   <bookmark href="https://blog.mikeoperfect.com/" id="94">
     <title>MikeoPerfect&apos;s Diary</title>
   </bookmark>
+  <bookmark href="https://www.codesky.me/" id="427">
+    <title>CodeSky 代码之空</title>
+  </bookmark>
 </folder>
 <folder id="88">
   <title>不常用但有用的平台</title>
@@ -1245,7 +1248,4 @@
     <title>个人在线简历</title>
   </bookmark>
 </folder>
-<bookmark href="https://www.codesky.me/" id="427">
-  <title>CodeSky 代码之空</title>
-</bookmark>
 </xbel>
