@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :432: for Floccus bookmark sync browser extension -->
+<!--- highestId :433: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -193,6 +193,9 @@
   </bookmark>
   <bookmark href="https://open.bigmodel.cn/" id="409">
     <title>智谱AI开放平台</title>
+  </bookmark>
+  <bookmark href="https://design-nav.cn/" id="433">
+    <title>Design Nav 设计师导航站</title>
   </bookmark>
 </folder>
 <folder id="86">
