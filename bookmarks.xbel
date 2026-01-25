@@ -200,9 +200,6 @@
   <bookmark href="https://tophub.today/" id="434">
     <title>今日热榜官网</title>
   </bookmark>
-  <bookmark href="https://uapis.cn/" id="435">
-    <title>UAPI - 专业免费API接口平台 | 开发者工具箱</title>
-  </bookmark>
 </folder>
 <folder id="86">
   <title>小工具</title>
@@ -373,6 +370,9 @@
   </bookmark>
   <bookmark href="https://dc.console.aliyun.com/#/overview" id="416">
     <title>注册域名-阿里云</title>
+  </bookmark>
+  <bookmark href="https://uapis.cn/" id="435">
+    <title>UAPI - API调用平台</title>
   </bookmark>
 </folder>
 <folder id="89">
