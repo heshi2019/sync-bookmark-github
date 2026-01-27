@@ -786,6 +786,45 @@
     <title>自留地</title>
   </bookmark>
 </folder>
+<folder id="391">
+  <title>本地项目</title>
+  <bookmark href="http://127.0.0.1:6284/browser" id="29">
+    <title>MinIO</title>
+  </bookmark>
+  <bookmark href="https://clash.razord.top/#/proxies" id="28">
+    <title>Clash</title>
+  </bookmark>
+  <bookmark href="http://localhost:3000/" id="23">
+    <title>Open WebUI</title>
+  </bookmark>
+  <bookmark href="http://localhost:5678/home/workflows" id="27">
+    <title>本地 n8n</title>
+  </bookmark>
+  <bookmark href="http://127.0.0.1:8848/nacos/#/configurationManagement?dataId=&amp;group=&amp;appName=&amp;namespace=&amp;pageSize=&amp;pageNo=" id="26">
+    <title>本地Nacos</title>
+  </bookmark>
+  <bookmark href="http://localhost:8888/" id="25">
+    <title>本地SkyWalking</title>
+  </bookmark>
+  <bookmark href="http://localhost:8384/" id="24">
+    <title>Syncthing</title>
+  </bookmark>
+  <bookmark href="http://localhost:5000/" id="401">
+    <title>libretranslate，本地翻译</title>
+  </bookmark>
+  <bookmark href="http://127.0.0.1:8000/" id="402">
+    <title>SillyTavern - 骗子酒馆</title>
+  </bookmark>
+</folder>
+<folder id="430">
+  <title>AI平台</title>
+  <bookmark href="https://www.kimi.com/" id="431">
+    <title>月之暗面</title>
+  </bookmark>
+  <bookmark href="https://chat.z.ai/" id="432">
+    <title>智谱</title>
+  </bookmark>
+</folder>
 <folder id="33">
   <title>图片</title>
   <bookmark href="https://www.dpm.org.cn/lights/royal.html" id="45">
@@ -1197,36 +1236,6 @@
     <title>Open WebUI</title>
   </bookmark>
 </folder>
-<folder id="391">
-  <title>本地项目</title>
-  <bookmark href="http://127.0.0.1:6284/browser" id="29">
-    <title>MinIO</title>
-  </bookmark>
-  <bookmark href="https://clash.razord.top/#/proxies" id="28">
-    <title>Clash</title>
-  </bookmark>
-  <bookmark href="http://localhost:3000/" id="23">
-    <title>Open WebUI</title>
-  </bookmark>
-  <bookmark href="http://localhost:5678/home/workflows" id="27">
-    <title>本地 n8n</title>
-  </bookmark>
-  <bookmark href="http://127.0.0.1:8848/nacos/#/configurationManagement?dataId=&amp;group=&amp;appName=&amp;namespace=&amp;pageSize=&amp;pageNo=" id="26">
-    <title>本地Nacos</title>
-  </bookmark>
-  <bookmark href="http://localhost:8888/" id="25">
-    <title>本地SkyWalking</title>
-  </bookmark>
-  <bookmark href="http://localhost:8384/" id="24">
-    <title>Syncthing</title>
-  </bookmark>
-  <bookmark href="http://localhost:5000/" id="401">
-    <title>libretranslate，本地翻译</title>
-  </bookmark>
-  <bookmark href="http://127.0.0.1:8000/" id="402">
-    <title>SillyTavern - 骗子酒馆</title>
-  </bookmark>
-</folder>
 <folder id="418">
   <title>招聘平台</title>
   <bookmark href="https://hr.bjx.com.cn/" id="417">
@@ -1258,15 +1267,6 @@
   </bookmark>
   <bookmark href="https://hacknical.com/heshi2019/archive#others" id="428">
     <title>个人在线简历</title>
-  </bookmark>
-</folder>
-<folder id="430">
-  <title>AI平台</title>
-  <bookmark href="https://www.kimi.com/" id="431">
-    <title>月之暗面</title>
-  </bookmark>
-  <bookmark href="https://chat.z.ai/" id="432">
-    <title>智谱</title>
   </bookmark>
 </folder>
 </xbel>
