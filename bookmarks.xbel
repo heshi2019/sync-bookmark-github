@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :439: for Floccus bookmark sync browser extension -->
+<!--- highestId :440: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -742,6 +742,9 @@
   </bookmark>
   <bookmark href="https://www.tradingview.com/" id="437">
     <title>tradingview - 金融图片分析工具</title>
+  </bookmark>
+  <bookmark href="https://bailian.console.aliyun.com/cn-beijing/?spm=5176.29619931.J_SEsSjsNv72yRuRFS2VknO.5.74cd10d7w3rcjW&amp;tab=model#/model-usage/free-quota" id="440">
+    <title>大模型服务平台百炼控制台</title>
   </bookmark>
 </folder>
 <folder id="397">
