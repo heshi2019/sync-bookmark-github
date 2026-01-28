@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :438: for Floccus bookmark sync browser extension -->
+<!--- highestId :439: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.gcores.com/" id="1">
   <title>机核</title>
@@ -828,7 +828,10 @@
     <title>智谱</title>
   </bookmark>
   <bookmark href="https://claude.com/product/claude-code" id="438">
-    <title>Claude Code-AI 编码代理 </title>
+    <title>Claude Code-AI 编码代理</title>
+  </bookmark>
+  <bookmark href="https://clawd.bot/?utm_source=ai-bot.cn" id="439">
+    <title>Moltbot——个人人工智能助手 --- Moltbot — Personal AI Assistant</title>
   </bookmark>
 </folder>
 <folder id="33">
